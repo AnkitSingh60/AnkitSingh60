@@ -42,7 +42,7 @@
 <p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" alt="ankitsingh60" /></p> -->
 
 <div>
-<h3>⚙️ GitHub Analytics:</h3>
+<h3>⚙GitHub Analytics:</h3>
 <a href="https://github.com/ankitsingh60">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ankitsingh60&show_icons=true&theme=radical" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" />
