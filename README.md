@@ -34,16 +34,30 @@
 <hr>
 
 
-<h3 align="left">GitHub Stats:</h3>
+<!-- <h3 align="left">GitHub Stats:</h3>
 
 
 <p><img width="50%"  src="https://github-readme-stats.vercel.app/api?username=AnkitSingh60&show_icons=true&theme=radical" alt="ankitsingh60" /></p>
 
-<p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" alt="ankitsingh60" /></p>
+<p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" alt="ankitsingh60" /></p> -->
 
+<div>
+<h3>⚙️ GitHub Analytics:</h3>
+<a href="https://github.com/ankitsingh60">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitsingh60&show_icons=true&theme=radical" />
+   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" />
+</a>
+ </div>
+ <br/>
+   <p>&nbsp  &nbsp  &nbsp  &nbsp &nbsp &nbsp  &nbsp  &nbsp  &nbsp &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp <img  width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p>
+ <br/>
+   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
 
-<p><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p>
+ <img alt="Ankit Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankitsingh60&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
+<!-- <p><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p> -->
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="1500" src="https://github-profile-trophy.vercel.app/?username=ankitsingh60&theme=radical" alt="ankitsingh60" /></a> </p>
 
