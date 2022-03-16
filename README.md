@@ -49,7 +49,10 @@
 </a>
  </div>
  <br/>
-   <p><img  width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p>
+ 
+  <div align="center">
+   <p><img  width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p>
+   </div>
  <br/>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
