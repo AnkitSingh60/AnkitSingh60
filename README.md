@@ -45,7 +45,7 @@
 <h3>⚙GitHub Analytics:</h3>
 <a href="https://github.com/ankitsingh60">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ankitsingh60&show_icons=true&theme=radical" />
-  &nbsp&nbsp&nbsp<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" />
+  &nbsp<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" />
 </a>
  </div>
  <br/>
