@@ -14,7 +14,7 @@
 
 
 <div>
-  <img align="right" alt="Coding" width="410" height="" src="https://developersgd.com/image/motive1.gif"/>  
+  <img align="right" alt="Coding" width="400" height="" src="https://developersgd.com/image/motive1.gif"/>  
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 💬 Ask me about **Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
