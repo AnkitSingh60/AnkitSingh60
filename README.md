@@ -44,14 +44,14 @@
 <div>
 <h3>⚙GitHub Analytics:</h3>
 <a href="https://github.com/ankitsingh60">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ankitsingh60&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" />
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=ankitsingh60&show_icons=true&theme=radical" />
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" />
 </a>
  </div>
  <br/>
  
   <div align="center">
-   <p><img  width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p>
+   <p><img  width="168em"  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p>
    </div>
  <br/>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
