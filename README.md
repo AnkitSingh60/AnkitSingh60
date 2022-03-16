@@ -53,5 +53,5 @@
 <a href="https://linkedin.com/in/ankit-singh-50b757221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-singh-50b757221/" height="30" width="40" /></a>
 <a href="https://instagram.com/areyoutheremrsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="areyoutheremrsingh" height="30" width="40" /></a>
 <a href="https://facebook.com/ankitrp97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ankitrp97" height="30" width="40" /></a>  
-</p>
+</p> 
 <h1 align="center">Made with ❤️ By Ankit Singh</h1>
