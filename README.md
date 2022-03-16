@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ankit Singh❤️</h1>
 
-<img align="right" alt="Coding" width="420" height="" src="https://developersgd.com/image/motive1.gif"/>  
+<img align="right" alt="Coding" width="440" height="" src="https://developersgd.com/image/motive1.gif"/>  
 
 
 <h2 align="left">A passionate full Stack Web Developer from India</h2>
