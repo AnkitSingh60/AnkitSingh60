@@ -13,20 +13,17 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Development From Masai School.**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 💬 Ask me about **Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](www.google.com)
+- 📫 How to reach me ankitanwar730@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_Ei7MEoqEJCEr268vxkAOtzo-GrmN-zD/view?usp=sharing)
+- 👨‍💻💻 Here is my personal [Portfolio](www.google.com)
 
-<!-- <h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://twitter.com/rutheremrsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutheremrsingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-singh-50b757221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-singh-50b757221/" height="30" width="40" /></a>
-<a href="https://instagram.com/areyoutheremrsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="areyoutheremrsingh" height="30" width="40" /></a>
-</p> -->
+-  🧑‍ Know about my experiences [Resume](https://drive.google.com/file/d/1_Ei7MEoqEJCEr268vxkAOtzo-GrmN-zD/view?usp=sharing)
+
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>      
@@ -42,6 +39,14 @@
 <p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh60&show_icons=true&theme=radical&locale=en&layout=compact" alt="ankitsingh60" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p>
+<p><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh60&theme=radical" alt="ankitsingh60" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh60&theme=radical" alt="ankitsingh60" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img  width="1500" src="https://github-profile-trophy.vercel.app/?username=ankitsingh60&theme=radical" alt="ankitsingh60" /></a> </p>
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://twitter.com/rutheremrsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutheremrsingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-singh-50b757221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-singh-50b757221/" height="30" width="40" /></a>
+<a href="https://instagram.com/areyoutheremrsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="areyoutheremrsingh" height="30" width="40" /></a>
+<a href="https://facebook.com/ankitrp97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ankitrp97" height="30" width="40" /></a>  
+</p>
