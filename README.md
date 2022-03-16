@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ankit Singh❤️</h1>
 
-<img align="right" alt="Coding" width="440" height="" src="https://developersgd.com/image/motive1.gif"/>  
+
 
 
 <h2 align="left">A passionate full Stack Web Developer from India</h2>
@@ -13,7 +13,8 @@
 
 
 
-
+<div>
+  <img align="right" alt="Coding" width="410" height="" src="https://developersgd.com/image/motive1.gif"/>  
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 💬 Ask me about **Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
@@ -23,6 +24,8 @@
 - 👨‍💻💻 Here is my personal [Portfolio](www.google.com)
 
 -  🧑‍ Know about my experiences [Resume](https://drive.google.com/file/d/1_Ei7MEoqEJCEr268vxkAOtzo-GrmN-zD/view?usp=sharing)
+  
+  </div>
 
 
 <hr>
