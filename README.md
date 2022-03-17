@@ -15,7 +15,7 @@
 
 <div>
   <img align="right" alt="Coding" width="380" height="" src="https://developersgd.com/image/motive1.gif"/>  
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 I’m currently learning Full Stack Web Development.
 
 - 💬 Ask me about **Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
 
