@@ -23,7 +23,7 @@
 
 - 👨‍💻💻 Here is my personal [Portfolio](https://ankit-singh-portfolio.vercel.app/)
 
--  🧑‍ Know about my experiences [Resume](https://drive.google.com/file/d/122bVOlb4mE-jYoN2n-7pKDU-TUTWRJEv/view?usp=sharing)
+-  🧑‍ Know about my experiences [Resume](https://drive.google.com/file/d/1NVxD5tTlplHIA8XJdSglxmyCSvMFUdad/view?usp=sharing)
   
   </div>
 
