@@ -15,7 +15,7 @@
 
 <div>
   <img align="right" alt="Coding" width="380" height="" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e473er51u1i2az0e31dvizdhictz96fk1wjmltw03hi&rid=giphy.gif&ct=g"/>  
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 Full Stack Web Developer ❤️.
 
 - 💬 Ask me about **Data Structures Algorithm, JavaScript, React, MongoDB, NodeJS, HTML,CSS**
 
